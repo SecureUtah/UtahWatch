@@ -78,12 +78,12 @@ header {
     background-color: #000000;
 }
 .header-nav-link, header-nav-link {
-    color: #d817d8;
+    color: #c6ffb3;
     text-decoration: none;
 }
 .header-nav-link-current {
     cursor: default;
-    color: #8cff66;
+    color: #d817d8;
     font-size: 120%;
     font-weight: bold;
 }
