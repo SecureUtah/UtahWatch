@@ -67,6 +67,7 @@ ul, ol {
 }
 code {
     font-family: Consolas, monospace;
+    background: Gainsboro;
 }
 hr {
     display: block;
